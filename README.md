@@ -217,7 +217,7 @@ Some of the major patterns identified during the analysis include:
 
 ### AI Impact & Workforce
 
-![AI Impact & Workforce](screenshots/ai_impact_workforce.png)
+![AI Impact & Workforce](https://github.com/tabishisingh/AI-JOB-IMPACT-DASHBOARD/blob/main/Screenshot%20(57).png)
 
 ### Skills & Workforce Explorer
 
