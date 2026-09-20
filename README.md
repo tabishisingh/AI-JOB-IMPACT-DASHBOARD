@@ -213,7 +213,7 @@ Some of the major patterns identified during the analysis include:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview]([screenshots/executive_overview.png](https://github.com/tabishisingh/AI-JOB-IMPACT-DASHBOARD/blob/main/Screenshot%20(56).png))
 
 ### AI Impact & Workforce
 
