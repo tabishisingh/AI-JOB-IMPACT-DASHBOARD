@@ -127,7 +127,6 @@ PostgreSQL was used to perform analytical queries and demonstrate SQL skills inc
 - CASE
 - ORDER BY
 - Window Functions
-- DENSE_RANK()
 - Trend Analysis
 
 ### Key SQL Analyses
@@ -259,8 +258,8 @@ Potential future improvements include:
 
 ## 👨‍💻 Author
 
-**Aditya Kumar**
+**Tabishi singh**
 
-B.Tech – Computer Science  
-Ajay Kumar Garg Engineering College  
+B.Tech – Computer Science and Engineering
+Raj Kumar Goel Institute of Technology
 2023–2027
