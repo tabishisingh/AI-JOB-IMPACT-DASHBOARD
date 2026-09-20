@@ -223,6 +223,18 @@ Some of the major patterns identified during the analysis include:
 ![Skills & Workforce Explorer](https://github.com/tabishisingh/AI-JOB-IMPACT-DASHBOARD/blob/main/Screenshot%20(58).png)
 
 ----
+##📊 Tableau Public: 
+
+Executive Overview:[https://public.tableau.com/app/profile/tabishi.singh7516/viz/AI_Job_Impact_Dashboardd/ExecutiveOverview]
+
+AI Impact & Workforce:
+
+[https://public.tableau.com/app/profile/tabishi.singh7516/viz/AI_Job_Impact_Dashboardd/AIImpactWorkforce]
+
+Skills & Job Explorer:
+
+[https://public.tableau.com/app/profile/tabishi.singh7516/viz/AI_Job_Impact_Dashboardd/SkillsJobExplorer]
+----
 
 ## 💡 Skills Demonstrated
 
