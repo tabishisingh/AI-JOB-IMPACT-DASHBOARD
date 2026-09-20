@@ -221,7 +221,7 @@ Some of the major patterns identified during the analysis include:
 
 ### Skills & Workforce Explorer
 
-![Skills & Workforce Explorer](screenshots/skills_workforce_explorer.png)
+![Skills & Workforce Explorer](https://github.com/tabishisingh/AI-JOB-IMPACT-DASHBOARD/blob/main/Screenshot%20(58).png)
 
 ----
 
